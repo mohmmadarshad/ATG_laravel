@@ -1,0 +1,16 @@
+{
+    "message": {
+        "Status": "1",
+        "Error": [
+            {
+                "name": ["The name has already been taken."],
+                "pincode": [
+                    "The pincode has already been taken.",
+                    "The pincode must be at least 6 characters."
+                ]
+            },
+            "Data not Save",
+            "Fail to Send Email"
+        ]
+    }
+}
